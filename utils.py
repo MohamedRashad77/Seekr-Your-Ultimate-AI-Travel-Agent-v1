@@ -53,6 +53,8 @@ def generate_pdf(content, departure_city, destination, budget, duration):
     
     # Add cover page
     pdf.add_page()
+    pdf.set_font("Arial", "B", size=28)
+    pdf.cell(200, 10, txt="Seekr: Your Ultimate AI Travel Agent", ln=True, align='C')
     pdf.set_font("Arial", "B", size=24)
     pdf.cell(200, 20, txt="Travel Itinerary", ln=True, align='C')
     pdf.set_font("Arial", size=16)
