@@ -16,9 +16,9 @@ Seekr is an AI-powered travel planning assistant that helps users create persona
 
 ## Prerequisites
 
-- Python 3.8 or higher
-- Groq API key
-- SerpAPI key
+- Python 3.8 or higher (Download Python)-[https://www.python.org/downloads/]
+- Groq API key (Get Groq API key)-[https://groq.com/]
+- SerpAPI key  (Get SerpAPI key)-[https://serpapi.com/]
 
 ## Installation
 
