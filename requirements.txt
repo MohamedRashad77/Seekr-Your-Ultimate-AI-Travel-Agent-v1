@@ -1,0 +1,6 @@
+streamlit
+phi
+serpapi
+phidata
+groq
+fpdf
