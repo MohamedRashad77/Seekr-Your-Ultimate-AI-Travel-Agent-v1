@@ -24,8 +24,8 @@ Seekr is an AI-powered travel planning assistant that helps users create persona
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/seekr-travel-agent.git
-cd seekr-travel-agent
+git clone https://github.com/MohamedRashad77/Seekr-Your-Ultimate-AI-Travel-Agent-v1.git
+cd Seekr-Your-Ultimate-AI-Travel-Agent-v1
 ```
 
 2. Install required packages:
